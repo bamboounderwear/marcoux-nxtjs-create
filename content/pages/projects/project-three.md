@@ -14,7 +14,7 @@ featuredImage:
   url: /images/Capture d’écran 2025-02-08 190208.png
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Capture d’écran 2025-02-08 190208.png
   altText: Project image
 bottomSections: []
 ---
