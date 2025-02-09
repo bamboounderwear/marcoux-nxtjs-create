@@ -11,6 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
+  url: /images/Capture d’écran 2025-02-08 190208.png
 media:
   type: ImageBlock
   url: /images/bg3.jpg
